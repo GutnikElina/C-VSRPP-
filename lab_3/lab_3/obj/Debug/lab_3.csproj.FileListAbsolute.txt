@@ -1,0 +1,11 @@
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\bin\Debug\lab_3.exe.config
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\bin\Debug\lab_3.exe
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\bin\Debug\lab_3.pdb
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.csproj.AssemblyReference.cache
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.Form1.resources
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.Form2.resources
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.Properties.Resources.resources
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.csproj.GenerateResource.cache
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.csproj.CoreCompileInputs.cache
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.exe
+D:\Documents\LAB_WORKS_BSUIR\VSRPP\lab_3\lab_3\obj\Debug\lab_3.pdb
